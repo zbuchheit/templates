@@ -1,5 +1,5 @@
 name: ${PROJECT}
-description: A Short Description
+description: ${DESCRIPTION}
 runtime: nodejs
 template:
   description: A Longer Description
