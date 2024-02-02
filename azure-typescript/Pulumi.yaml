@@ -1,8 +1,8 @@
 name: ${PROJECT}
-description: ${DESCRIPTION}
+description: A Short Description
 runtime: nodejs
 template:
-  description: A minimal Azure Native TypeScript Pulumi program
+  description: A Longer Description
   important: true
   config:
     azure-native:location:
