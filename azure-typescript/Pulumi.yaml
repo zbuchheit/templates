@@ -2,6 +2,7 @@ name: ${PROJECT}
 description: ${DESCRIPTION}
 runtime: nodejs
 template:
+  quickstart: Please check your program once it is generated.
   description: A Longer Description
   important: true
   config:
