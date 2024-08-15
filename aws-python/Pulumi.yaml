@@ -1,6 +1,11 @@
 name: ${PROJECT}
 description: ${DESCRIPTION}
 runtime: python
+  name: python
+  options:
+    toolchain: pip
+    virtualenv: venv
+    typechecker: mypy
 template:
   description: A minimal AWS Python Pulumi program
   important: true
