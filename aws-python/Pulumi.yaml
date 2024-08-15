@@ -4,7 +4,8 @@ runtime:
   name: python
   options:
     toolchain: pip
-    typechecker: mypy
+    typechecker: pyright
+    virtualenv: venv
 template:
   description: A minimal AWS Python Pulumi program
   important: true
